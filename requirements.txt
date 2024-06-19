@@ -1,0 +1,7 @@
+# requirements.txt
+
+kaleido==0.2.1
+networkx==3.3
+numpy==2.0.0
+packaging==24.0
+tenacity==8.2.3
